@@ -18,6 +18,6 @@ pip install -r requirements.txt
 
 python main.py
 
-Результат:
+# 6. Результат
 
 В outputs/results.txt сохраняются все заголовки:
